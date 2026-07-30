@@ -56,6 +56,3 @@ Haar Cascade classifiers are pretrained models that use edge/line/rectangle feat
 - Detection accuracy depends heavily on the quality of the Haar Cascade XML files used and the resolution/clarity of the input images or video.
 - Haar Cascades can produce false positives/negatives; for more robust detection, consider modern deep learning-based object detectors (e.g., YOLO, SSD).
 
-## License
-
-This project is provided for educational purposes.
